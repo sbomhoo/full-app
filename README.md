@@ -20,8 +20,7 @@ app.get('*', function(req,resp){
 ```
 
 ## 이미지
-###1. 리액트 라우터로 움직이는 home
-![img1](https://user-images.githubusercontent.com/30708283/157447330-d7c58a91-9469-4f15-bb00-fd2e3ecbdf93.png)
+ 1. 리액트 라우터로 움직이는 home ![img1](https://user-images.githubusercontent.com/30708283/157447330-d7c58a91-9469-4f15-bb00-fd2e3ecbdf93.png)
 
 2. 리액트 라우터로 움직이는 About
     ![img2](https://user-images.githubusercontent.com/30708283/157447334-b29a64b2-e101-4f7f-a128-9168e4fa593a.png)
