@@ -20,10 +20,11 @@ app.get('*', function(req,resp){
 ```
 
 ## 이미지
-- 리액트 라우터로 움직이는 home ![img1](https://user-images.githubusercontent.com/30708283/157447330-d7c58a91-9469-4f15-bb00-fd2e3ecbdf93.png)
+- 리액트 라우터로 움직이는 home 
+- ![img1](https://user-images.githubusercontent.com/30708283/157447330-d7c58a91-9469-4f15-bb00-fd2e3ecbdf93.png)
 
 - 리액트 라우터로 움직이는 About
-    ![img2](https://user-images.githubusercontent.com/30708283/157447334-b29a64b2-e101-4f7f-a128-9168e4fa593a.png)
+- ![img2](https://user-images.githubusercontent.com/30708283/157447334-b29a64b2-e101-4f7f-a128-9168e4fa593a.png)
 
 - 리액트 라우터로 움직이는 API (이지만 리액트 AXIOS로 요청해서 Express 라우터로 API를 호출하는 )
-    ![img3](https://user-images.githubusercontent.com/30708283/157447338-6a202583-21cd-4773-affd-68ed9f8422af.png)
+- ![img3](https://user-images.githubusercontent.com/30708283/157447338-6a202583-21cd-4773-affd-68ed9f8422af.png)
