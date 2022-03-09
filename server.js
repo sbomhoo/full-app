@@ -15,7 +15,7 @@ var mongoose    = require('mongoose');
 app.use(bodyParser.urlencoded({ extended: true }));    
 app.use(bodyParser.json());     
 
-// API 호출 시  ./back/routes/route 경로 코드 실행 
+//  '/api'로 시작하는 요청이 올 때  ./back/routes/route 경로 코드 실행 
 app.use( '/api' ,back);     
 
 // 그 외의 호출은 react 실행
