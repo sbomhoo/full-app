@@ -8,12 +8,12 @@ const App = () => {
     <div>
       <Link to="/">Home</Link>  <br/>
       <Link to="/about">소개</Link> <br/>
-      <Link to="/api">API 호출</Link>
+      <Link to="/apiReq">API 호출</Link>
       <hr/>
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="/about" element={<About/>} />
-        <Route path="/api" element={<ApiReq/>} />
+        <Route path="/apiReq" element={<ApiReq/>} />
       </Routes>
     </div>
   );
